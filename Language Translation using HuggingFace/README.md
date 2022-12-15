@@ -4,4 +4,4 @@
  
  ### Demo:
  
- <img src="https://github.com/jrreda/AI-projects/Language-Translation-using-HuggingFace/demo.png">
+ <img src="https://github.com/jrreda/AI-projects/blob/main/Language%20Translation%20using%20HuggingFace/demo.png">
